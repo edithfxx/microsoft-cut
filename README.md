@@ -6,6 +6,16 @@
   <img src="./img/logo.png" alt="Microsoft" height="28">
 </p>
 
+<p align="center">
+  <a href="https://edithfxx.github.io/microsoft-cut/"><b>🔗 線上 Demo</b></a>
+</p>
+
+<p align="center">
+  <a href="https://edithfxx.github.io/microsoft-cut/">
+    <img src="./img/screenshot.png" alt="Microsoft 台灣官網首頁切版預覽" width="100%">
+  </a>
+</p>
+
 ---
 
 ## 專案動機
@@ -18,7 +28,9 @@
 
 ## 線上預覽
 
-專案為純靜態網站，開啟即可瀏覽：
+**Live Demo → https://edithfxx.github.io/microsoft-cut/**
+
+本專案已透過 GitHub Pages 佈署，點擊上方連結即可直接瀏覽。若要在本機執行：
 
 ```bash
 # 方式一：直接以瀏覽器開啟
